@@ -1,4 +1,6 @@
-## Hi there 👋
+[Joshua Abigail Ciputra]
+## 👋 Hi there, Joshua here!
+
 
 <!--
 **Joshua-FTDS/Joshua-FTDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

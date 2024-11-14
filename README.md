@@ -1,4 +1,4 @@
-<img src="https://github.com/Joshua-FTDS/Joshua-FTDS/blob/main/c-1.jpg" alt="Chess">
+<img src="https://github.com/Joshua-FTDS/Joshua-FTDS/blob/main/c-2.jpg" alt="Chess">
 
 
 # Joshua Abigail Ciputra - Data Analyst | Data Scientist | Data Engineer

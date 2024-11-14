@@ -1,8 +1,9 @@
 # Joshua Abigail Ciputra
 ## Data Analyst | Data Scientist | Data Engineer
-## 👋 Hi there, Joshua here!
+### Hi there! 👋
 
-
+## 👀 About me
+I'm Joshua, a data scientist who have strong sense of curiosity and self-motivated about programming, especially in data engineering, data scientist, and AI development. Began my programming journey by finishing Hacktiv8 bootcamp as a data. Decided to leave my previous career in the hospitality & digital marketing agency industries. Passionate about learning and experiencing something new about technology. Hard worker, humble and easy-going person.
 <!--
 **Joshua-FTDS/Joshua-FTDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

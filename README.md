@@ -11,6 +11,8 @@ I'm Joshua, a data scientist with a strong sense of curiosity and a self-motivat
 😎 Open to collaborating on projects. <br>
 ♜ Fun fact: I'm addicted to chess! <br>
 
+<img src="https://github.com/Joshua-FTDS/Joshua-FTDS/blob/main/s&p.jpg" alt="Spongebob">
+
 ## 📫 Get in Touch with Me 📫
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-ciputra-15a229318)

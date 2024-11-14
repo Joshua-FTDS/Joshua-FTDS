@@ -1,3 +1,5 @@
+<a href="https://pikbest.com//backgrounds/chess-pieces-few-of-a-board-on-black-background_9588610.html">Free  backgrounds from pikbest.com</a>
+
 # Joshua Abigail Ciputra - Data Analyst | Data Scientist | Data Engineer
 ## Hi there! 👋
 I'm Joshua, a data scientist with a strong sense of curiosity and a self-motivated attitude towards programming, especially in data engineering, data science, and AI development. I began my programming journey by completing the Hacktiv8 bootcamp as a data scientist. I decided to leave my previous career in the hospitality and digital marketing industries. I'm passionate about learning and exploring new technologies. I'm a hard worker, humble, and easy-going person.

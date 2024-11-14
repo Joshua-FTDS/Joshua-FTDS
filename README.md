@@ -1,4 +1,4 @@
-<a href="https://pikbest.com//backgrounds/chess-pieces-few-of-a-board-on-black-background_9588610.html">Free  backgrounds from pikbest.com</a>
+<img src=""https://pikbest.com//backgrounds/chess-pieces-few-of-a-board-on-black-background_9588610.html"" alt="Chess">
 
 # Joshua Abigail Ciputra - Data Analyst | Data Scientist | Data Engineer
 ## Hi there! 👋

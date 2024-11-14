@@ -4,9 +4,9 @@ I'm Joshua, a data scientist with a strong sense of curiosity and a self-motivat
 
 ## 👀 About me 👀
 🌟 Currently looking for job opportunities. <br>
-💫 Currently strengthening my knowledge in advanced SQL, deep learning, machine learning, and large language models (LLMs).
-😎 Open to collaborating on projects.
-♜ Fun fact: I'm addicted to chess!
+💫 Currently strengthening my knowledge in advanced SQL, deep learning, machine learning, and large language models (LLMs). <br>
+😎 Open to collaborating on projects. <br>
+♜ Fun fact: I'm addicted to chess! <br>
 
 ## 📫 Get in Touch with Me 📫
 
@@ -16,13 +16,13 @@ Email: joshuabigail99@gmail.com
 
 ## 🌵 Skills 🌵
 
-Programming Languages: Python
+Programming Languages: Python <br>
 
-Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Tableau
+Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Tableau <br>
 
-Database Management: SQL, MongoDB, Google BigQuery
+Database Management: SQL, MongoDB, Google BigQuery <br>
 
-Machine Learning Techniques: Supervised & Unsupervised learning, Deep Learning, Ensemble Learning, and Transfer Learning
+Machine Learning Techniques: Supervised & Unsupervised learning, Deep Learning, Ensemble Learning, and Transfer Learning <br>
 
 <!--
 **Joshua-FTDS/Joshua-FTDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

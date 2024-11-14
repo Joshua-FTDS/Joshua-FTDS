@@ -1,8 +1,28 @@
 # Joshua Abigail Ciputra - Data Analyst | Data Scientist | Data Engineer
 ## Hi there! 👋
-I'm Joshua, a data scientist who have strong sense of curiosity and self-motivated about programming, especially in data engineering, data scientist, and AI development. Began my programming journey by finishing Hacktiv8 bootcamp as a data. Decided to leave my previous career in the hospitality & digital marketing agency industries. Passionate about learning and experiencing something new about technology. Hard worker, humble and easy-going person.
+I'm Joshua, a data scientist with a strong sense of curiosity and a self-motivated attitude towards programming, especially in data engineering, data science, and AI development. I began my programming journey by completing the Hacktiv8 bootcamp as a data scientist. I decided to leave my previous career in the hospitality and digital marketing industries. I'm passionate about learning and exploring new technologies. I'm a hard worker, humble, and easy-going person.
 
-## 👀 About me
+## 👀 About me 👀
+🌟 Currently looking for job opportunities.
+💫 Currently strengthening my knowledge in advanced SQL, deep learning, machine learning, and large language models (LLMs).
+😎 Open to collaborating on projects.
+♜ Fun fact: I'm addicted to chess!
+
+## 📫 Get in Touch with Me 📫
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-ciputra-15a229318)
+
+Email: joshuabigail99@gmail.com
+
+## 🌵 Skills 🌵
+
+Programming Languages: Python
+
+Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Tableau
+
+Database Management: SQL, MongoDB, Google BigQuery
+
+Machine Learning Techniques: Supervised & Unsupervised learning, Deep Learning, Ensemble Learning, and Transfer Learning
 
 <!--
 **Joshua-FTDS/Joshua-FTDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

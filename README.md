@@ -1,5 +1,4 @@
-# Joshua Abigail Ciputra
-## Data Analyst | Data Scientist | Data Engineer
+# Joshua Abigail Ciputra - Data Analyst | Data Scientist | Data Engineer
 ### Hi there! 👋
 
 ## 👀 About me
